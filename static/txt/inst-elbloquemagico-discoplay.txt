@@ -1,0 +1,11 @@
+EL BLOQUE MAGICO
+Hay 15 etapas en este juego en cada
+fase y cuatro subetapas en las cuales
+existen calles incompletas para el
+vehículo espacial. El/los jugadores
+deben mover en bloque en un tiempo
+limitado y ayudar al vehículo a
+viajar a través de las calles. Si no se
+completan las calles en el tiempo
+requerido o no se deja ninguna calle
+para el vehículo, explotará.

@@ -1,0 +1,18 @@
+CORRE BENNY, la pequeña abeja Benny
+vive en un precioso jardín sin haber llegado
+a recolectar la miel. Benny ha tenido que
+dejar su casa e irse otro sitio lejos por su
+miel.
+Benny atravesará territorios de otros
+insectos ¿Que clase de retos tendrá que
+hacer frente? Vamos a ellos con Benny.
+        
+        CONTROL DE OPERACIONES:
+A.- FLECHAS:    Dirección de Benny.
+B.- (B) Botón:  Balas de fuego.
+C.- (START):    Comienzo de juego o pausa.
+
+                OTROS:
+1up : Un Benny adicional.
+s    : Más velocidad.
+p    : Incrementa la potencia de disparo.

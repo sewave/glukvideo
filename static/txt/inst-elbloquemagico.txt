@@ -1,0 +1,23 @@
+EL BLOQUE MAGICO, hay 15 etapas en este juego en
+cada fase, y cuatro sub-etapas en las cuáles existen
+calles incompletas para el vehículo del espacio que
+viaja. El/los jugadores deberán mover el bloque en un
+tiempo limitado y ayudar al vehículo a viajar através
+de las calles. Si el/los jugadores no pueden completar
+todas las calles en el tiempo requerido o no dejan
+ninguna calle para el vehículo, explotará.
+
+                    OPERACION:
+A.- FLECHAS    : Para cambiar la posición del cursor en la pantalla
+B.- (A)        : Mueve el bloque entre el espacio y el cursor en
+                 dirección al espacio.
+C.- (B)        : Aumenta la velocidad del vehículo al mismo tiempo.
+D.- SELECT     : Frena el vehículo si no hay ninguna calle por donde
+                 ir. Ud. podrá presionar este botón para parar el
+                 vehículo, entonces se movera por la calle apropiada
+                 volviendo a presionar de nuevo este botón.
+E.- START      : Pausa el juego.
+
+        OPERACION PARA SELECCION DE ETAPAS
+Presionar el botón START, en éste momento presionar
+inmediatamente el botón superior y así podrá seleccionar las diferentes etapas.

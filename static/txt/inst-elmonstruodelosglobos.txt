@@ -1,0 +1,52 @@
+EL MONSTRUO DE LOS GLOBOS.
+Habrá un anticipo de la pantalla
+después de "log-in". Esto es un juego
+para un jugador, simplemente pulsa el
+"Start" y podrás entrar en el menú del
+juego.
+Pulsa la tecla "Start", en la pantalla
+aparecerá "stage" y "rest". Representa la
+enésima etapa próxima pantalla, cuántas
+personas quedan y el juego empezará
+tres segundos más tarde.
+En total hay 50 etapas en este juego.
+Después de acabarlas todas, empezará
+de nuevo desde la primera, desde
+entonces el "Headaccount" aumentará
+uno hasta 20. No aumentará cuando
+llegue a 20.
+
+ MENU DE LAS OPERACIONES
+ CON JOYSTICK (PALANCA)
+Tecla "A" y "B" dispara la bala (Con teclas "A" y "B"
+no hay que cambiar a disparo continuo, sino será un
+disparo simple ya que esto es un juego de disparo
+continuo).
+Tecla "Start": Empezar el juego o pausa.
+Tecla "Sel": No aplicable.
+Tecla "Up": No aplicable.
+Tecla "Down": No aplicable.
+Tecla Izq. : Para mover a la izquierda.
+Tecla Dcha: Para mover a la derecha.
+Si pulsas o la tecla izquierda o derecha con una tecla
+A o B, seguirá moviendo a la izquierda o derecha
+porque las teclas izquierda/derecha suprimen las
+teclas A/B.
+
+ LAS REGLAS DEL JUEGO.
+El tema principal de este juego es usar el espacio de
+cambiar tiempo. De hecho, el juego no tiene límite de
+tiempo. Sin embargo, la pelota movera más bajo y
+más bajo hasta que rueda por el suelo y se acabó el
+carácter principal, así que de esta forma hay un tipo
+de límite de tiempo. El distintivo principal es cuando
+se rompa la pelota en pelotas más pequeñas al ser
+disparado. Romperá en tres y desaparecerá cuando la
+más pequeña ha sido alcanzada.
+Según el concepto "usando el espacio de cambiar
+tiempo", cuando la pelota es alcanzada en el punto 
+mas alto, el tiempo aumentará relativamente o sino las
+pelotas irán moviendo más bajo cada vez y no
+quedará mucho mas tiempo. Cuando se hayan
+disparado a todas las pelotas y se han desaparecido,
+pasas.

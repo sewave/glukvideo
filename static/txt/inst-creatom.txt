@@ -1,0 +1,98 @@
+            INTSRUCCIONES DE USO
+                "CREATOM"
+    I - El juego empieza con la descripción de la historia de
+"CREATOM". Puedes avanzar esta fase presionando el botón
+"START".
+
+    II - Selecciona el nivel de dificultad mediante el botón "A"
+(para aumentarlo) ó "B" (para disminuirlo). Los niveles de
+dificultad van de 81 a 271. Mientras más alto es el número
+mayor nivel de dificultad.
+
+    III . Presionando "START" aparecerá "El código secreto de
+seguridad" (SSC) que deberás desbloquear para poder
+empezar a jugar.
+
+1. Como manejar el cubo:
+1.1 Cuando se presiona el botón "B" el cubo rota 90 grados tal como
+se muestra en la figura 
+
+A: <- B: ->
+
+        ROJA
+VERDE AMARILLA     AZUL PURPURA
+                ROSA
+
+A) Cuando la cara superior del cubo es blanca, amarilla o verde el
+cubo rota a favor de las agujas del reloj al presionar el botón "B".
+B) Cuando la cara superior del cubo es azul, rosa o roja el cubo rota
+en contra de las agujas del reloj al presionar el botón "B".
+1.2 Cuando se presiona el botón "A" el cubo rota 120 grados tal
+como muestra la figura:
+    ROJA         --->    AMARILLO
+AMARILLA AZUL    ---> AZUL         ROJO
+
+2. Como desbloquear "El Código secreto de seguridad" (SCC):
+    POSICION DE REFERENCIA
+ZONA "SSC"            ZONA "W"
+
+Existe una zona denominada "W" que consiste en varios cubos en la
+parte inferior de la pantalla. Adicionalmente existe una zona
+denominada "SSC". La cual no es visible inicialmente. La misión es
+hacer que los colores de los cubos de la zona "W" coincidan
+exactamente con los colores de la zona "SSC".
+ZONA "SSC"
+- Use el botón "SELECT" para seleccionar un cubo. Al hacerlo se
+rodeará por líneas de puntos.
+- La aparición de cualquier color en una de las caras significa que
+ese color coincide con el de la misma cara en la zona "W".
+- Cuando aparezcan los colores de las tres caras visibles significa
+que has resuelto ese cubo.
+- La zona "SSC" estará resuelta cuando hayan aparecido todos los
+colores de los tres cubos.
+ZONA "W" 
+- Esta es la configuración que te da la referencia de colores.
+- Usa el botón "A" y "B" para controlar los colores de los cubos de
+manera tal de hacerlos coincidir con los de la zona "SSC"
+
+3.Recibirás un bono extra (1.000 puntos) si el código "SSC" es
+desbloqueado presionando los botones "A" ó "B" un número de
+veces inferior al número de cubos multiplicado por cinco.
+4. Una forma fácil de resolver la zona "SSC" es:
+¿ES EL COLOR DE LA CARA SUPERIOR DEL CUBO CORRECTO?
+NO: PRESIONE EL BOTON "A" 1 o 2 VECES
+SI: PRESIONE EL BOTON "B" 1 a 3 VECES
+¿ES EL COLOR DE LA CARA SUPERIOR DEL CUBO CORRECTO?
+NO: PRESIONE EL BOTON "B" 1 o 2 VECES
+    PRESIONE EL BOTON "A" 1 o 2 VECES
+SI: PRESIONE EL BOTON "B" 1 a 3 VECES
+
+5. Una vez superada la zona "SSC" el juego empieza. El objetivo de
+"CREATOM" es hacer coincidir los colores de todas las caras
+adyacentes de los cubos.
+Al principio del juego aparecerá un "Patrón de entrenamiento para la
+memoria" (M.T.P). Memoriza la forma en que están apilados los
+cubos y los colores de las caras adyacentes. Esto te ayudaría a ganar
+bonificaciones especiales.
+Usa el direccionador del joystick para controlar el movimiento de los
+cubos y apilarlos en la forma deseada. Usa los botones "A" y "B" para
+rotar los cubos.
+5.1 Si todos los colores de las caras adyacentes de los cubos
+coinciden, estos cubos desaparecerán y aumentará la puntuación
+(cada cubo = 100 puntos). El número de cubos apilados debe
+coincidir con el del "M.T.P.".
+5.2 Si la forma en que se apilan los cubos coinciden exactamente
+con la del "M.T.P" se obtendra una puntuación superior (cada cubo
+= 200 puntos). Si al mismo tiempo todos los colores de las caras
+adyacentes coinciden con los del "M.T.P." obtendrás 400 puntos por
+cada cubo.
+5.3 Presionando el botón "SELECT" puedes accionar o desactivar la
+"Pantalla patrón". Los puntos obtenidos sin la "Pantalla patrón" serán
+dobles.
+5.4 Cuando presiones el botón "START" el juego se pone en pausa y
+aparece en pantalla:
+Puntuación (SCORES)
+T.I.L. (Nivel de dificultad seleccionada)
+A.I.L. (Nivel de dificultad actual)
+G.L. (Nivel de juego)
+Presiona nuevamente "START" para empezar a jugar.

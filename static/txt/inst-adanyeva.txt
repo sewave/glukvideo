@@ -1,0 +1,28 @@
+ADAN Y EVA, estaban libre y felizmente jugando en el
+jardín del Edén, pero una perversa e hipócrita serpiente les
+hace la vida insegura y miserable. Con objeto de protegerse y
+proteger su jardín del Edén, Adan y Eva intentan dar caza a la
+serpiente fuera del jardín. Desafortunadamente la serpiente
+siempre se burla de Adan y Eva. ¿Quien les va a echar una
+mano en esta guerra? Nadie lo sabe.
+Por favor preste su soporte espiritual en acción.
+
+            1.- FUNCIONES DE CONTROL
+A.- (B) Key : Velocidad rápida ascendente.
+B.- (A) Key : Velocidad lenta ascendente.
+C.- <- ->   : Junto con (A) y (B) el carácter va a una u otra diracción
+D.- (START) : Comienzo del juego y pausa.
+E.- (SELECT): No tiene uso.
+
+                2.- COMENTARIOS
+A.- Cuando el globo de la parte superior del caracter toca el
+filo de la estructura, éste se vuelve más pequeño.
+B.- Cuando el globo es tocado por la cola del monstruo, éste
+también se hará mas pequeño.
+C.- Después de tres toques el caracter queda muerto y se
+convierte en un Angel
+D.- Intentar mover el caracter en direccion al globo y alargale la vida
+E.- Intentar perforar el balón de la cabeza de cada monstruo y
+entonces golpear al monstruo para que se muera.
+F.- Después de que todos los monstruos estén golpeados
+pasará a otro nivel.

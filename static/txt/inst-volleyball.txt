@@ -1,0 +1,18 @@
+                         COMO JUGAR
+1.-Presione el botón <<START>> para pasar a la pantalla
+   seleccionar los elementos.
+2.-Use el direccionador del joystick <<ARRIBA>>/<<ABAJO>>
+   para seleccionar los elementos.
+3.-Use el direccionador del joystick <<DERECHA>>/<<IZ-
+   QUIERDA>> para cambiar la selección.
+4.-Use el direccionador del joystick para seleccionar los
+   miembros del equipo y presione el botón <<A>> del
+   joystick.
+5.-Para realizar el saque presione el botón <<A>> del
+   joystick.
+6.-Para realizar el saque con salto presione el botón
+   <<A>> para elevar la bola, presione <<B>> para saltar y
+   presione nuevamente <<B>> para golpear la bola.
+7.-Para realizar el resto presione <<A>>.
+8.-Para hacer un remate presione <<B>> para saltar y pre-
+   sione nuevamente <<B>> para golpear la bola.

@@ -1,0 +1,27 @@
+                         COMO JUGAR
+1.-El objetivo del juego es completar la figura de la pan-
+   talla moviendo las piezas del puzzle hasta lograr
+   colocarlas en las posiciones correctas.
+2.-Presione <<START>> para pasar a la pantalla <<SELECT>>.
+3.-Presione <<SELECT>> para seleccionar el nivel de juego
+   deseado, seguidamente presione <<START> para
+   empezar el juego.
+4.-Durante el juego el direccionador del joystick se utili-
+   za para mover las piezas del puzzle al espacio vacan-
+   te adyacente. En primer lugar use el direccionador
+   para colocar el cursor en la parte superior de la pie-
+   za que desea mover y presione el botón <<A>> de su
+   joystick. Mueva la pieza moviendo el cursor al lugar
+   adyacente deseado y presione nuevamente el botón
+   <<A>>.
+5.-Presionando el botón <<START>> usted recibirá ayuda
+   pero sólo puede realizar esto cinco veces a lo largo
+   del juego.
+6.-Presionando el botón <<B>> de su joystick pasará al
+   modo de INTERCAMBIO DE PIEZAS si gana el juego
+   propuesto (GAMBLE). Si gana el GAMBLE presione
+   nuevamente el botón <<B>> de su joystick para volver al puzzle.
+   Encontrará en pantalla dos cursores. Coloque los cur-
+   sores sobre las piezas que desea intercambiar presio-
+   nando para cada cursor el botón <<A>>. Las piezas se
+   intercambiarán.

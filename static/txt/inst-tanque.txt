@@ -1,0 +1,21 @@
+TANQUE, ninguna batalla de tanques puede ser tan
+fascinante como esta. Esta es una edición lujosa del
+juego de tanques. Además de los tradicionales
+tesoros la potencia de los tanques puede ser
+aumentada. Existen diferentes tipos de tanques
+enemigos. Los cuatro cañones especiales del tanque
+son los más peligrosos. Su misión es destruir al
+enemigo y expandir su conquista. Usted podrá
+atacar duramente luchando mejor con su tanque.
+
+        OPERACIONES DE CONTROL
+1.- FLECHAS  :     Para parar el juego o hacer una pausa
+2.- (A) ó (B):     Granadas
+            
+                OTROS:
+P            :     Grado de disparo 1 nivel.
+P P          :     Grado de disparo 2 nivel.
+Luz          :     Comienza a ser invencible por un periodo de tiempo.
+1UP          :     Un tanque adicional.
+DIAMANTE: Diamante, incrementa el marcador.
+DINAMITA: Dinamita, vuela los tanques enemigos.

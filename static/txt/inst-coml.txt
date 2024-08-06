@@ -1,0 +1,57 @@
+INSTRUCCIONES DE USO DEL VIDEOJUEGO
+COMANDO DE LOBOS
+
+Este videojuego esta especialmente diseñado para ser jugado con
+la AMETRALLADORA OPTICA TLG-405. Sin embargo, si usted lo
+desea, puede también jugarlo con un joystick tradicional, para lo
+cual aparecerá en la pantalla una mira para apuntar sobre el
+objetivo deseado y que usted podrá mover utilizando el direc-
+cionador de su joystick
+
+LA MISION
+
+Usted es integrande de las fuerzas especiales COMANDO DE
+LOBOS y ha sido enviado al frente para rescatar a aunos rehenes.
+Para ello deberá superar los seis niveles del juego hasta poder
+escapar con los rehenes a un territorio neutral.
+
+LA TECNICA
+
+Usted dispone de una ametralladora con diez cargas de balas y
+diez bombas para poder eliminar a los enemigos y liberar y
+protger a los rehenes evitando que usted sea eliminado.
+
+INFORMACION EN PANTALLA
+
+En cada momento en la pantalla dispondrá de información sobre
+la munición disponible y la <<vida>> que le queda.
+
+COMO REPONER MUNICIONES Y FUERZAS
+
+A lo largo del juego caerán desde la parte superior de la pantalla
+recuadros con símbolos que al ser disparados le permitirán repo-
+ner balas, bombas y <<vida>>.
+
+COMO JUGAR
+
+1.-Con la videoconsola apagada inserte el videojuego en el
+   compartimento del cartucho.
+2.-Encienda la videoconsola y espera que aparezca en su
+   televisor la primera pantalla del juego. En caso de que no sea
+   así accione el botón <<reset>> y/o compruebe la correcta
+   colocación del cartucho.
+3.-Accione el gatillo para avanzar por las opciones hast que se
+   inicie la acción. Si utiliza joystick accione los botones <<select>> y
+   start para ello
+4.-Una vez iniciada la acción apunte sobre los objetivos alineando
+   la mira delantera y la trasera de su AMETRALLADORA OPTICA.
+   Dispare sobre ellos accionando el gatillo. SI esta utilizando
+   joystick mieva la mira sobre la pantalla utilizando los controles
+   de dirección y dispare utilizando el botón A.
+5.-Para el lanzamiento de las bombas accione el botón de
+   disparo HYPER al mismo tiempo que apunta y aprieta el gatillo.
+   Si está utilizando joystick accione el botón B para obtener el
+   mismo efecto.
+6.-Para obtener el efecto de disparo repetido accione el botón
+   TURBO SEMI de su ametralladora o el botón TURBO de su
+   JOYSTICK.

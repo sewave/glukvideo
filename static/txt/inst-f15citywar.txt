@@ -1,0 +1,12 @@
+                         COMO JUGAR
+1.-Con su avión F-15 debe destruir a los aviones y tan-
+   ques enemigos.
+2.-Presione <<START>> para pasar a la pantalla <<SELECT>>.
+3.-Presione <<CONTINUE>> o <<START>> para continuar o
+   empezar el juego.
+4.-Presione el botón <<A>> para disparar los misiles aire-
+   tierra.
+5.-Presione el botón <<B>> para disparar los misiles aire-
+   aire.
+6.-Para mover el avión use el direccionador de su joy-
+   stick.

@@ -1,0 +1,46 @@
+COSMOS COP (POLICÍA DEL ESPACIO).
+En el año 2010 A.D., invasores de la
+Estrella Beta en el Espacio de los Extraños,
+atacaron a la Galaxia con la intención de
+colonizar el territorio. Uno tras otro, se
+despacharon Legiones de Terror para
+invadir y ocupar cada uno de los cuerpos
+celestiales.
+La Casa Matriz de la Defensa del Universo
+despacho numerosas tropas defensivas
+pero todas desaparecieron en el extenso
+universo... La Galaxia estaba a punto de ser
+vencida por este malvado poder.
+Como último recurso, el Comandante de la
+Galaxia mandó a su mejor concocción
+arsenal, COSMOS COP, con la misión de
+destruir los invasores de la Estrella Beta y
+proteger la Galaxia. Para hacer esto,
+Cosmos Cop debe penetrar en el espacio,
+destruir las instalaciones de la Legión del
+Terror, aniquilar totalmente al invasor y
+recuperar la paz para la Galaxia.
+
+a). Misión I : Atravesar el área defensiva de fuera
+b). Misión II : Pasar el área de los Volcanes.
+c). Misión III : Explotar el arsenal.
+d). Misión IV : Explotar la Central de Energía.
+e). Misión V : Atacar la Fortaleza.
+f). Misión VI : Matar al Jefe.
+
+Cuando se alcanza la última misión, aparecerá
+en la pantalla el nombre del programador del
+juego.
+
+ OPERACIÓN DEL MANDO:
+A. (START):     Para empezar el juego o pausa.
+B. (SELECT):    No se usa.
+C. (FLECHAS):   Para mover el Cosmos Cop en cualquier
+                dirección. Se puede disparar a la vez
+                que se mueve.
+D. TECLA(B):    Para disparar el cañón sucesivamente
+                sin límite.
+E. TECLA(A):    Para disparar el misil neutrón, limitado.
+                El número que aparece en la esquina 
+                derecha inferior de la pantalla indica
+                los que te quedan.

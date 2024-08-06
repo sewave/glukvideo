@@ -1,0 +1,50 @@
+GUERRA EN EL GOLFO.
+
+REGLAS DEL JUEGO:
+
+1.
+    1.: Flechas Empujar el botón:
+                Tecla, mueve el helicóptero adelante,
+                atrás, arriba y abajo.
+    2.: "B"     Dispara la bala y se cae la bomba a la vez   
+    3.: "B"+ <- El helicóptero irá hacia atrás y disparará
+                la bala a 45 grados hacia arriba y
+                dejará caer la bomba a la vez.
+    4.: "B"+ -> El helicóptero irá hacia adelante,
+                disparará la bala a 45 grados hacia
+                abajo y dejará caer la bomba a la vez.
+    5.: "A"     El helicóptero está rodeado por una
+                ametralladora (bola verde). La ametralladora
+                rodeará el helicóptero si no se pulsa
+                la tecla "A", se pulsa una tecla, la
+                ametralladora irá en dirección contraria
+                al helicóptero a medida que éste se mueve.
+    6.: "Start" Para empezar el juego o pausa.
+
+2. Tesorería:
+    1.: "S":    Acelerar
+    2.: "O":    (Rojo) Insistencia en la fuerza de las balas.
+    3.: "S":    Insistencia en la fuerza de las bombas.
+    4.: 1 up:   Adición de otro helicóptero.
+    3.: ++++:   Capa protectora.
+        +++
+
+3."La muerte":
+Cuando se haya disparado al helicóptero principal, se
+bajará la energía de la bala y la bomba al nivel más
+bajo, luego al disparar lo explotará inmediatamente.
+
+4. La "Ametralladora":
+Cuando aparece por primera vez el helicóptero
+principal en la pantalla, hay una bola verde a su lado
+Esta es la ametralladora. Generalmente, rodeará el
+carácter principal con un circulo para protegerlo. Se
+puede pulsar una tecla para que la ametralladora deje
+al carácter principal. Cuando un avión enemigo o una
+bala de un avión enemigo chocan con la 
+ametralladora habrá una explosión.
+Después de un choque múltiple, la ametralladora
+también explotará.
+
+4. La dificultad del juego:
+Hay tres niveles que hay que fijar al empezar el juego.

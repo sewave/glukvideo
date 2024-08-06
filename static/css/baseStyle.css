@@ -1,0 +1,434 @@
+		.selectable tbody tr.even:hover, .selectable tbody tr.even td.highlighted {
+			background-color: #ECFFB3;
+		}
+
+		.selectable tbody tr.odd:hover, .selectable tbody tr.odd td.highlighted {
+			background-color: #E6FF99;
+		}
+
+		.selectable tr.even:hover {
+			background-color: #ECFFB3;
+		}
+
+		.selectable tr.even:hover td.sorting_1 {
+			background-color: #ECFFB3;
+		}
+
+		.selectable tr.even:hover td.sorting_2 {
+			background-color: #E7FF9E;
+		}
+
+		.selectable tr.even:hover td.sorting_3 {
+			background-color: #E2FF89;
+		}
+
+		.selectable tr.odd:hover {
+			background-color: #E6FF99;
+		}
+
+		.selectable tr.odd:hover td.sorting_1 {
+			background-color: #D6FF5C;
+		}
+
+		.selectable tr.odd:hover td.sorting_2 {
+			background-color: #E0FF84;
+		}
+
+		.selectable tr.odd:hover td.sorting_3 {
+			background-color: #DBFF70;
+		}
+
+		.readOnlyAsDisabled
+		{
+		 background-color: #CCC;
+		} 
+		
+		li.errorMsg {
+			color: black;
+			list-style-type: none;
+		}
+		
+		li.infoMsg {
+			color: green;
+			list-style-type: none;
+		}
+		
+		ul.menuList {
+			list-style-type: none;
+		}
+		
+		.loginInfo {
+			background-color: #0779BF;
+			color: #FFFFFF;
+		}
+		
+		.loginInfo a:link {
+			color: #ffffff;
+			text-decoration: underline;
+		}
+		
+		.loginInfo a:active {
+			color: #ffffff;
+			text-decoration: underline;
+		}
+		
+		.loginInfo a:visited {
+			color: #ffffff;
+			text-decoration: underline;
+		}
+		
+		.loginInfo a:hover {
+			color: #ff0000;
+			text-decoration: none;
+		}
+		
+		.pageTitle {
+			text-align: left;
+			font-size: 25px;
+		}
+		
+		.errorList {
+			text-align: left;
+			background-color: #FFFF66;
+			padding: 0px 0px 0px 15px;
+			max-width: 550px;
+		}
+		
+		.infoList {
+			text-align: left;
+			background-color: #FFFF66;
+			padding: 0px 0px 0px 15px;
+			max-width: 550px;
+		}
+		
+		.defaultFieldSet {
+			border-radius: 8px;
+			-webkit-border-radius: 8px;
+			-moz-border-radius: 8px;
+			background-color: #888888;
+			text-align:left;
+		}
+		
+		label {
+			float: left;
+			margin-right: 0.5em;
+			padding-top: 0.2em;
+			text-align: right;
+			font-weight: bold;
+		}
+		
+		legend {
+			padding: 0.2em 0.5em;
+			border: 2px solid black;
+			font-size: 20px;
+			text-align: right;
+			background-color: #66CCFF;
+		}
+		
+		.ui-state-hover {
+			background-color: #66CCFF;
+		}
+		
+		
+		#messages {
+			padding: 0px 0px 0px 100px;
+		}
+		
+		.defaultFont {
+			color: #000000;
+			font-family: monospace;
+			text-align: justify;
+			text-justify: inter-word;
+			font-size: 1em;
+		}
+		
+		.headerArea {
+			width: 100%;
+		}
+		
+		.header {
+			max-width:1024px;
+			position:relative;
+			margin:auto;
+		}
+		
+		.defaultBody {
+			position: relative;
+			max-width:1024px;
+			text-align:left;
+			margin-left:auto;
+			margin-right:auto;
+			margin-bottom:50px;
+			padding: 10px 5% 10px 5%;
+		}
+		
+		
+		
+		.menu {
+			padding: 10px 5% 10px 5%;
+			clear:both;
+		}
+		
+		.menu a  {
+			text-decoration: none;
+		}
+		
+		.menu a:hover {
+			color: white;
+			background-color: black;
+		}
+		
+		.menuItemSelected a {
+			color: black;
+			background-color: white;
+		}
+				
+		.pageTitle {	
+			font-size: 24px;
+			text-align: left;
+			font-weight: bold;
+			padding: 0 0 25px 50px;
+		}
+		
+		.recuadro {
+			border:1px solid black;
+		}
+		
+		.tablaContacto{
+			padding: 25px;
+			margin: 0 0 25px 0;
+			background-color: #C0C0C0;
+		}
+		
+		.menuItem {
+			margin: 0 20px 0 0;
+		}
+		
+		.langHeader {
+			font-size: 12px;	
+			padding: 10px;
+			margin-top: 10px;
+			text-transform: uppercase; 
+		}
+		
+		.langSelected {
+			font-size: 16px;
+			color: #C0C0C0;
+			padding: 10px;
+			margin: 5px;
+			background-color: #339966;
+			border:1px solid black;
+		}
+		
+		.langNotSelected {
+			font-size: 16px;
+			padding: 10px;
+			margin: 5px;
+			background-color: #339966;
+			border:1px solid black;
+		}
+		
+		.aviso_cookies {
+			background-color: #C0C0C0;
+			margin: 0 0 10px 0;
+			padding: 0 0 10px 0;
+			color: #000000;
+			padding: 5px;
+			clear:both;
+		}
+		
+		.btnAvisoCookies {
+			background-attachment: scroll;
+			background-clip: border-box;
+			background-color: #0099CC;
+			background-image: none;
+			background-origin: padding-box;
+			background-position: 0% 0%;
+			background-repeat: repeat;
+			background-size: auto auto;
+			border-bottom-color: rgb(255, 255, 255);
+			border-bottom-style: none;
+			border-bottom-width: 0px;
+			border-image-outset: 0 0 0 0;
+			border-image-repeat: stretch stretch;
+			border-image-slice: 100% 100% 100% 100%;
+			border-image-source: none;
+			border-image-width: 1 1 1 1;
+			border-left-color: rgb(255, 255, 255);
+			border-left-style: none;
+			border-left-width: 0px;
+			border-right-color: rgb(255, 255, 255);
+			border-right-style: none;
+			border-right-width: 0px;
+			border-top-color: rgb(255, 255, 255);
+			border-top-style: none;
+			border-top-width: 0px;
+			border:1px solid black;
+			color: rgb(255, 255, 255);			
+			font-family: Arial,Helvetica,sans-serif;
+			font-size: 14px;
+			font-size-adjust: none;
+			font-stretch: normal;
+			font-style: normal;
+			font-variant: normal;
+			font-weight: 700;
+			line-height: 15px;
+			list-style-image: none;
+			list-style-position: outside;
+			list-style-type: none;
+			margin-bottom: 0px;
+			margin-left: 0px;
+			margin-right: 0px;
+			margin-top: 5px;
+			outline-color: rgb(255, 255, 255);
+			outline-style: none;
+			outline-width: 0px;
+			padding-bottom: 3px;
+			padding-left: 5px;
+			padding-right: 5px;
+			padding-top: 5px;
+			text-align: center;
+			text-decoration: none;
+			vertical-align: baseline;
+		}
+		
+		.btnesAvisoCookies {
+			margin-top: 5px;
+			margin-left: 5px;
+			padding: 5px;
+		}
+		
+		.bodyFooter {
+			clear: both;
+			position:relative;
+			background-color: #339966;
+			border:1px solid black;
+			text-align:center;
+			padding: 10px 5% 10px 5%;
+			margin: 10px 0 0 0;
+			text-transform: uppercase; 
+		}	
+	
+		.bodyFooter a {
+			color: white;
+			text-decoration: none;
+			font-size: 16px;
+			margin: 0px 20px 0 20px;
+			white-space: nowrap;
+		}
+		
+		.bodyFooter a:hover {
+			color: black;
+			background-color: white;
+		}
+		
+
+.boton {
+	background-color:#339966;
+	margin:10px;
+}
+
+.ficha {
+	background-color:#339966;
+	margin:auto;
+	min-width: 512px;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	max-width:100%;
+	max-height:100%;
+}
+
+.resizable {
+	max-width:100%;
+	/* These are technically the same, but use both */
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+
+	-ms-word-break: break-all;
+	/* This is the dangerous one in WebKit, as it breaks things wherever */
+	word-break: break-all;
+	/* Instead use this non-standard one: */
+	word-break: break-word;
+
+	/* Adds a hyphen where the word breaks, if supported (No Blink) */
+	-ms-hyphens: auto;
+	-moz-hyphens: auto;
+	-webkit-hyphens: auto;
+	hyphens: auto;
+}
+
+.indexli {
+	font-size:20px;
+}
+
+.tableficha {
+	width:100%;
+}
+
+.tableficha b {
+	font-size: 16px;
+}
+
+.fichaInterior {
+	margin:10px;
+}
+
+.history {
+	
+	max-width:1024px;
+	margin:auto;
+
+}
+.descripcionjuegos {
+	margin:auto;
+}
+.notas {
+	list-style:none;
+}
+
+
+	.floatLeft {
+		float:left;
+	}
+	.floatRight{
+		float:right;
+	}
+	
+	.v1 {
+		background-color:#99EBC2;
+	}
+	.v15 {
+		background-color:#4DDB94;
+	}
+	.v2 {
+		background-color:#00B85C;
+	}
+	.v225 {
+		background-color:#00B85C/*008F47;*/
+	}
+	.v3 {
+		background-color:#008F47;
+	}
+	
+	
+	.itemcoleccion {
+		margin:auto;
+		max-width:800px;
+	}
+	
+.tdnowrap {
+	white-space: nowrap;
+}	
+
+.menu-fixed {
+	position:fixed;
+	z-index:1000;
+	top:0;
+}
+	
+	
+	

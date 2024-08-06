@@ -1,0 +1,17 @@
+                         COMO JUGAR
+1.-El objetivo del juego es que nuestro valiente policía
+   supere los distintos niveles con la finalidad de captu-
+   rar al temido ladrón. Para ello en cada nivel debe
+   protegerse de los enemigos usando su pistola y recu-
+   perando las vasijas indicadas en cada nivel. A lo largo
+   del juego debes descubrir los elementos de ayuda
+   que el juego te da. Para abrir puertas y tabiques sim-
+   plemente sitúate delante de ellos y dispárales.
+2.-Presiona el botón <<START>> para pasar a la pantalla
+   <<SELECT>>. Usa el botón <<SELECT>> para seleccionar
+   uno o dos jugadores y presiona dos veces <<START>>
+   para empezar el juego.
+3.-Usa el direccionador del joystick para mover a nues-
+   tro policía por la pantalla.
+4.-Presiona el botón <<A>> del joystick para saltar y el <<B>>
+   para disparar. Para recoger las vasijas salta sobre ellas.

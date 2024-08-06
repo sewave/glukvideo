@@ -1,0 +1,18 @@
+BOOKY MAN, en esta comunidad vivían una rata, un
+escarabajo llamado Booky Man, dos lagartos y una
+sabandija.
+Booky Man el escarabajo le gustaba tener todo limpio
+y prometió a la rata ayudarla a limpiar las calles pero
+los dos lagartos siempre están persiguiendo a Booky
+que deberá ir através de los tuneles para evitar los
+ataques de los lagartos o usar el cepillo arrasador
+persiguiendo a los lagartos a que vuelvan a su casa y
+matar a la sabandija, quien por otro lado ensucia las calles.
+
+        FUNCIONES DE CONTROL
+A.- START:      Para parar el juego o hacer una pausa.
+B.- (A) Key:    No tiene uso
+C.- (B) Key:    No tiene uso
+D.- SELECT:     No tiene uso
+E.- FLECHAS:    Para mover el escarabajo en cualquier
+                dirección.
